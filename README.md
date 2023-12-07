@@ -31,7 +31,7 @@ This is a simple single-page workout tracker application built using the MERN st
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/workout-tracker-mern.git
+    git clone https://github.com/yourusername/workout-tracker-mern.git
    ```
 2. Navigate to the project directory:
 ```sh
